@@ -1,0 +1,157 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50063901',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50063901',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50063901",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "010",
+        "Short": "03240445-010",
+        "Name": "SE010 הסתגלות למצבי לחץ",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50090607",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00033757",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762128000000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769385600000)/",
+              "Name": "הרצאה הסתגלות למצבי לחץ",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002200",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00140302",
+              "RoomText": "014-0302",
+              "ScheduleSummary": "מ 03.11., יום שני 10:30-12:30",
+              "ScheduleText": "מ 03.11., יום שני 10:30-12:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "בקורס יבחנו הבטים שונים על לחץ, ובכללן תגובות דחק. נלמד להבחין בתבניות סוציולוג\r\nיות ופסיכולוגיות, וחברתיות של דחק ושל התמודדות. במסגרת הקורס הסטודנטים יוכלו לא\r\nתר את מקורות הלחץ האישיים, לנתח את דפוסי ההתמודדות שלהם, ולרכוש כלים ומיומנויות\r\n להתמודדות אפקטיבית עם לחץ, על מנת לשפר את איכות חייהם כסטודנטים ובכלל.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000003084',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000003084',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00003084",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "דליה",
+                    "LastName": "פלד-לינדנש",
+                    "OrgId": "50034065",
+                    "OrgText": "דיקן הסטודנטים ומעונות",
+                    "OrgUrl": "",
+                    "Seark": "",
+                    "Title": "גב'",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000003084',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000003084',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050090607',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50063901',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      }
+    ]
+  }
+}

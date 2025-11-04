@@ -1,0 +1,1231 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064580',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064580',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50064580",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "011",
+        "Short": "00140709-011",
+        "Name": "SE011 מעבדת דרכים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091771",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021584",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200501",
+              "RoomText": "020-0501",
+              "ScheduleSummary": "מ 04.11., יום שלישי 08:30-09:30",
+              "ScheduleText": "מ 04.11., יום שלישי 08:30-09:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00005474",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "אריה",
+                    "LastName": "סידס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "ד\"ר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091772",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LAB",
+              "CategoryText": "מעבדה",
+              "ContactHours": "2.00",
+              "DObjid": "00000648",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "מעבדה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "יום ראשון 10:30-12:30",
+              "ScheduleText": "יום ראשון 10:30-12:30",
+              "Seark": "",
+              "Short": "מע-11",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091772',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064580',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064581',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064581',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50064581",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "012",
+        "Short": "00140709-012",
+        "Name": "SE012 מעבדת דרכים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091771",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021584",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200501",
+              "RoomText": "020-0501",
+              "ScheduleSummary": "מ 04.11., יום שלישי 08:30-09:30",
+              "ScheduleText": "מ 04.11., יום שלישי 08:30-09:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00005474",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "אריה",
+                    "LastName": "סידס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "ד\"ר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091773",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LAB",
+              "CategoryText": "מעבדה",
+              "ContactHours": "2.00",
+              "DObjid": "00000648",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "מעבדה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "יום ראשון 12:30-14:30",
+              "ScheduleText": "יום ראשון 12:30-14:30",
+              "Seark": "",
+              "Short": "מע-12",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091773',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064581',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065853',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065853',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50065853",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "013",
+        "Short": "00140709-013",
+        "Name": "SE013 מעבדת דרכים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091771",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021584",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200501",
+              "RoomText": "020-0501",
+              "ScheduleSummary": "מ 04.11., יום שלישי 08:30-09:30",
+              "ScheduleText": "מ 04.11., יום שלישי 08:30-09:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00005474",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "אריה",
+                    "LastName": "סידס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "ד\"ר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091774",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LAB",
+              "CategoryText": "מעבדה",
+              "ContactHours": "2.00",
+              "DObjid": "00000648",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "מעבדה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "מ 03.11., יום שני 08:30-10:30",
+              "ScheduleText": "מ 03.11., יום שני 08:30-10:30",
+              "Seark": "",
+              "Short": "מע-13",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091774',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065853',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065854',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065854',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50065854",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "014",
+        "Short": "00140709-014",
+        "Name": "SE014 מעבדת דרכים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091771",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021584",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200501",
+              "RoomText": "020-0501",
+              "ScheduleSummary": "מ 04.11., יום שלישי 08:30-09:30",
+              "ScheduleText": "מ 04.11., יום שלישי 08:30-09:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00005474",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "אריה",
+                    "LastName": "סידס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "ד\"ר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091776",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LAB",
+              "CategoryText": "מעבדה",
+              "ContactHours": "2.00",
+              "DObjid": "00000648",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "מעבדת דרכים",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "מעבדה 14",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "מ 04.11., יום שלישי 13:30-15:30",
+              "ScheduleText": "מ 04.11., יום שלישי 13:30-15:30",
+              "Seark": "",
+              "Short": "מע-14",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091776',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065854',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50068771',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50068771',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50068771",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "015",
+        "Short": "015-00140709",
+        "Name": "קב015",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091771",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021584",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה מעבדת דרכים",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200501",
+              "RoomText": "020-0501",
+              "ScheduleSummary": "מ 04.11., יום שלישי 08:30-09:30",
+              "ScheduleText": "מ 04.11., יום שלישי 08:30-09:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00005474",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "אריה",
+                    "LastName": "סידס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "ד\"ר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000005474',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091771',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091775",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LAB",
+              "CategoryText": "מעבדה",
+              "ContactHours": "2.00",
+              "DObjid": "00000648",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "מעבדת דרכים",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "מעבדה 00140709",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "מ 03.11., יום שני 10:30-12:30",
+              "ScheduleText": "מ 03.11., יום שני 10:30-12:30",
+              "Seark": "",
+              "Short": "מע-15",
+              "StudyContentDescription": "חקירת שתית ואיפיון הנדסי של חומרי המיסעה. בדיקות על חומרי סלילה: יחסי צפיפות רט\r\nיבות. מת\"ק, גבולות אטרברג, משקל יחסי, פחיסות ואלונגציה, שחיקות לוס אנג'לס ושווה\r\n ערך חול. הרכבת פרקציות לחומרים גרנולריים. תכנון תערובות אספלט בשיטת מרשל ובשיט\r\nת המהדק הסיבובי. סיווג ביטומנים לפי שיטת .PRHS בדיקות שדה מצומצמות: צפיפות שדה,\r\n דקר דרום אפריקאי. הערה: קביעת הציון עפ\"י מעקב במשך הסמסטר, מבחן מסכם, מעקב על\r\nהעבודה המעשית ודו\"ח מעבדה.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091775',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50068771',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      }
+    ]
+  }
+}

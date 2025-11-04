@@ -1,0 +1,684 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50066868',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50066868',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50066868",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "012",
+        "Short": "00140617-012",
+        "Name": "SE012 תכנון ובקרה של פרוייקטי בנייה",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091489",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00034472",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "תכנון ובקרה",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "תרגיל 12",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "יום חמישי 17:30-19:30",
+              "ScheduleText": "יום חמישי 17:30-19:30",
+              "Seark": "",
+              "Short": "תר-12",
+              "StudyContentDescription": "תזמון, תקצוב ובקרה של פרוייקטי בניה בשילוב טכניקות עבודה ממוחשבות. הדגשת תהליכי\r\nם של קבלת החלטות על בסיס בדיקת חלופות. נושאי הדיון כוללים: ניהול פרוייקטים מקוו\r\nן, תזמון, כתבי כמויות, אומדני עלות, תחשיב עלויות, ניהול תקציב, ניהול הייצור בבנ\r\nייה, תזרימי עלויות ותזרימימזומנים, בקרת לו\"ז ובקרה תקציבית.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091489',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091490",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021529",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה תכנון ובקרה של פרוייקטי בנייה",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200506",
+              "RoomText": "020-0506",
+              "ScheduleSummary": "מ 04.11., יום שלישי 10:30-12:30",
+              "ScheduleText": "מ 04.11., יום שלישי 10:30-12:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "תזמון, תקצוב ובקרה של פרוייקטי בניה בשילוב טכניקות עבודה ממוחשבות. הדגשת תהליכי\r\nם של קבלת החלטות על בסיס בדיקת חלופות. נושאי הדיון כוללים: ניהול פרוייקטים מקוו\r\nן, תזמון, כתבי כמויות, אומדני עלות, תחשיב עלויות, ניהול תקציב, ניהול הייצור בבנ\r\nייה, תזרימי עלויות ותזרימימזומנים, בקרת לו\"ז ובקרה תקציבית.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00002955",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "רפאל",
+                    "LastName": "זקס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "פרופ'",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "EL50062636",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PROJ",
+              "CategoryText": "פרויקט",
+              "ContactHours": "2.00",
+              "DObjid": "00011088",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": false,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "פרויקט תכנון ובקרה של פרוייקטי בנייה",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "",
+              "ScheduleText": "",
+              "Seark": "",
+              "Short": "פר-12",
+              "StudyContentDescription": "תזמון, תקצוב ובקרה של פרוייקטי בניה בשילוב טכניקות עבודה ממוחשבות. הדגשת תהליכי\r\nם של קבלת החלטות על בסיס בדיקת חלופות. נושאי הדיון כוללים: ניהול פרוייקטים מקוו\r\nן, תזמון, כתבי כמויות, אומדני עלות, תחשיב עלויות, ניהול תקציב, ניהול הייצור בבנ\r\nייה, תזרימי עלויות ותזרימימזומנים, בקרת לו\"ז ובקרה תקציבית.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062636',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50066868',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50066869',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50066869',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50066869",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "011",
+        "Short": "00140617-011",
+        "Name": "SE011 תכנון ובקרה של פרוייקטי בנייה",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091488",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00034472",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "תרגיל תכנון ובקרה של פרוייקטי בנייה",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00010425",
+              "RoomText": "001-0425",
+              "ScheduleSummary": "מ 04.11., יום שלישי 17:30-19:30",
+              "ScheduleText": "מ 04.11., יום שלישי 17:30-19:30",
+              "Seark": "",
+              "Short": "תר-11",
+              "StudyContentDescription": "תזמון, תקצוב ובקרה של פרוייקטי בניה בשילוב טכניקות עבודה ממוחשבות. הדגשת תהליכי\r\nם של קבלת החלטות על בסיס בדיקת חלופות. נושאי הדיון כוללים: ניהול פרוייקטים מקוו\r\nן, תזמון, כתבי כמויות, אומדני עלות, תחשיב עלויות, ניהול תקציב, ניהול הייצור בבנ\r\nייה, תזרימי עלויות ותזרימימזומנים, בקרת לו\"ז ובקרה תקציבית.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091488',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091490",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021529",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "הרצאה תכנון ובקרה של פרוייקטי בנייה",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200506",
+              "RoomText": "020-0506",
+              "ScheduleSummary": "מ 04.11., יום שלישי 10:30-12:30",
+              "ScheduleText": "מ 04.11., יום שלישי 10:30-12:30",
+              "Seark": "",
+              "Short": "הר-10",
+              "StudyContentDescription": "תזמון, תקצוב ובקרה של פרוייקטי בניה בשילוב טכניקות עבודה ממוחשבות. הדגשת תהליכי\r\nם של קבלת החלטות על בסיס בדיקת חלופות. נושאי הדיון כוללים: ניהול פרוייקטים מקוו\r\nן, תזמון, כתבי כמויות, אומדני עלות, תחשיב עלויות, ניהול תקציב, ניהול הייצור בבנ\r\nייה, תזרימי עלויות ותזרימימזומנים, בקרת לו\"ז ובקרה תקציבית.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00002955",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "רפאל",
+                    "LastName": "זקס",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "פרופ'",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000002955',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091490',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "EL50062635",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PROJ",
+              "CategoryText": "פרויקט",
+              "ContactHours": "2.00",
+              "DObjid": "00011088",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": false,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "פרויקט תכנון ובקרה של פרוייקטי בנייה",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "",
+              "ScheduleText": "",
+              "Seark": "",
+              "Short": "פר-11",
+              "StudyContentDescription": "תזמון, תקצוב ובקרה של פרוייקטי בניה בשילוב טכניקות עבודה ממוחשבות. הדגשת תהליכי\r\nם של קבלת החלטות על בסיס בדיקת חלופות. נושאי הדיון כוללים: ניהול פרוייקטים מקוו\r\nן, תזמון, כתבי כמויות, אומדני עלות, תחשיב עלויות, ניהול תקציב, ניהול הייצור בבנ\r\nייה, תזרימי עלויות ותזרימימזומנים, בקרת לו\"ז ובקרה תקציבית.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='EL50062635',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50066869',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      }
+    ]
+  }
+}

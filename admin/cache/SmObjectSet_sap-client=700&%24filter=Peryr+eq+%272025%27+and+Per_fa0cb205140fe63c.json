@@ -1,0 +1,67 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02060936',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02060936',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM02060936",
+        "Points": "3.00000",
+        "Name": "תכנון סביבות היברדיות",
+        "OrgText": "הפקולטה לארכיטקטורה ובינוי ערים",
+        "StudyContentDescription": "הקורס יעסוק בתכנון מרחבים היברידיים המשלבים מידע מהעולם הפיזי והווירטואלי! במטרה ליצור חוויות אינטראקטיביות עבור משתמשים. הקורס יתמקד בתכנון מקביל של סביבה פיזית ושל סביבה וירטואלית אשר יתקשרו זו עם זו במטרה לאפשר התרחשות של חוויות חדשניות ומגוונות. השיעורים יכללו הרצאות! סדנאות ודיונים על הפרויקטים ומהלך פיתוחם.\r\n תוצאות למידה: בסיום הקורס הסטודנטיות והסטודנטים יהיו מסוגלים:\r\n 1. להגדיר חוויותאינטראקטיביות ייחודיות לסביבות היברידיות.\r\n 2. לתכנן סביבות היברידיות המאפשרות אינטראקציה בין משתמשי סביבות פיזיות וווירטואליות.\r\n 3.להשתמש בשיטות חישוביות לתכנון! מידול! והדמיה של אינטראקציות בסביבות היברידיות.\r\n 4. לנתח ולהשוות בין תרחישי אינטראציה שונים כדי לשפר את חווית המשתמשים.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060936',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060936',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02060936",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "02050922",
+              "ModuleShort": "מק-02050922",
+              "ModuleName": "התבוננות, דיגום ויצוג 1",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060936',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060936',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02060936",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

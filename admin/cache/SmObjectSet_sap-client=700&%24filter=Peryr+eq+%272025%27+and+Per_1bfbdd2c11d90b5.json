@@ -1,0 +1,131 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00970325',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00970325',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM00970325",
+        "Points": "3.00000",
+        "Name": "תיאוריה ושיטות באופטימיזציה דלילה",
+        "OrgText": "מדעי הנתונים וההחלטות",
+        "StudyContentDescription": "מציאת פתרונות לבעיות שמכילים מעט משתנים השונים מאפס. יישומים נרחבים במגוון תחומים, כגון עיבוד אותות ותמונות, וסטטיסטיקה. הקורס ילמדתיאוריה ושיטות לאופטימיזציה דלילה החל מתוצאות קלאסיות לבעיות לא מאולצות, ועד שיטות מתקדמות לבעיות עם אילוצים, רגולריזציה ומבני דלילות של קבוצות. הכללה למבנה של דלילות של קבוצות או מטריצות. תוצאות למידה:\r\n בסיום הקורס הסטודנטים יוכלו ליישם ולנתח שיטות לאופטימיזציה דלילה. בפרט: שיטות היטל הגרדיאנט, שיטות פרוקסימל גראדינט ושיטות בלוקיות.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970325",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "00960327",
+              "ModuleShort": "מק-00960327",
+              "ModuleName": "מודלים לא לינאריים בחקר ביצועים",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970325",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "002"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='003')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='003')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970325",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "00970311",
+              "ModuleShort": "מק-00970311",
+              "ModuleName": "אופטימיזציה 1",
+              "Operator": "",
+              "LineNumber": "003"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='004')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='004')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970325",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "004"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='005')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='005')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970325",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "00980311",
+              "ModuleShort": "מק-00980311",
+              "ModuleName": "אופטמיזציה 1",
+              "Operator": "",
+              "LineNumber": "005"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='006')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970325',LineNumber='006')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970325",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "006"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

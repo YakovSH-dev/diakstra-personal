@@ -1,0 +1,246 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065834',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065834',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50065834",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "010",
+        "Short": "03140009-010",
+        "Name": "SE010 מעבדה בחומרים הנדסיים ח'",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50093337",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LAB",
+              "CategoryText": "מעבדה",
+              "ContactHours": "2.00",
+              "DObjid": "00009048",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "מעבדה מעבדה בחומרים הנדסיים ח'",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002040",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "יום רביעי 12:30-16:30",
+              "ScheduleText": "יום רביעי 12:30-16:30",
+              "Seark": "",
+              "Short": "מע-10",
+              "StudyContentDescription": "מבנה ותכונות של חומרים:  שיטות בדיקה של תכונות מכניות, מטלוגרפיה אופטית, גורמי\r\nפריכות, התעייפות. הכרת חומרים הנדסיים והכרת תהליכים:דיאגרמת פאזות, פולימרים, עב\r\nודה עם מחשב במדע והנדסה של חומרים, אלסטומרים, חיסום והרפיה, זיקון.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093337',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50065834',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50068184',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50068184',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50068184",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "077",
+        "Short": "077-03140009",
+        "Name": "קבוצה 77 סגורה לסיניים בלבד.",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50093338",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00007084",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": null,
+              "FurtherInfoDescription": "מע.בחמרים הנד. ח",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": null,
+              "Name": "תרגיל 03140009",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002040",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "",
+              "RoomText": "",
+              "ScheduleSummary": "מ 03.11., יום שני 16:00-17:00",
+              "ScheduleText": "מ 03.11., יום שני 16:00-17:00",
+              "Seark": "",
+              "Short": "ת-03140009",
+              "StudyContentDescription": "מבנה ותכונות של חומרים:  שיטות בדיקה של תכונות מכניות, מטלוגרפיה אופטית, גורמי\r\nפריכות, התעייפות. הכרת חומרים הנדסיים והכרת תהליכים:דיאגרמת פאזות, פולימרים, עב\r\nודה עם מחשב במדע והנדסה של חומרים, אלסטומרים, חיסום והרפיה, זיקון.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050093338',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50068184',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      }
+    ]
+  }
+}

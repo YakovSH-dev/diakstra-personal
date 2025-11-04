@@ -1,0 +1,1110 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064416',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064416',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50064416",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "011",
+        "Short": "00440268-011",
+        "Name": "SE011 מבוא למבני נתונים ואלגוריתמים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091449",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00033114",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762128000000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769385600000)/",
+              "Name": "תרגיל 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00040505",
+              "RoomText": "004-0505",
+              "ScheduleSummary": "מ 03.11., יום שני 16:30-17:30",
+              "ScheduleText": "מ 03.11., יום שני 16:30-17:30",
+              "Seark": "",
+              "Short": "ת-00440268",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000081162',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000081162',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00081162",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "תומר",
+                    "LastName": "קלס",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "מר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000081162',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000081162',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091449',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091453",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021968",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762041600000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769299200000)/",
+              "Name": "הרצאה 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00230280",
+              "RoomText": "023-0280",
+              "ScheduleSummary": "יום ראשון 15:30-17:30",
+              "ScheduleText": "יום ראשון 15:30-17:30",
+              "Seark": "",
+              "Short": "ה-10",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00014962",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "עדו",
+                    "LastName": "טל",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "פרופ\"ח",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064416',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064417',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064417',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50064417",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "012",
+        "Short": "00440268-012",
+        "Name": "SE012 מבוא למבני נתונים ואלגוריתמים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091450",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00033114",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762214400000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769472000000)/",
+              "Name": "תרגיל 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00040504",
+              "RoomText": "004-0504",
+              "ScheduleSummary": "מ 04.11., יום שלישי 14:30-15:30",
+              "ScheduleText": "מ 04.11., יום שלישי 14:30-15:30",
+              "Seark": "",
+              "Short": "ת-12",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000061096',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000061096',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00061096",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "רועי",
+                    "LastName": "רשף",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "מר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000061096',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000061096',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091450',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091453",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021968",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762041600000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769299200000)/",
+              "Name": "הרצאה 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00230280",
+              "RoomText": "023-0280",
+              "ScheduleSummary": "יום ראשון 15:30-17:30",
+              "ScheduleText": "יום ראשון 15:30-17:30",
+              "Seark": "",
+              "Short": "ה-10",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00014962",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "עדו",
+                    "LastName": "טל",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "פרופ\"ח",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064417',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064418',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064418',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50064418",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "013",
+        "Short": "00440268-013",
+        "Name": "SE013 מבוא למבני נתונים ואלגוריתמים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091451",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00033114",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1761696000000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769558400000)/",
+              "Name": "תרגיל 13",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00040505",
+              "RoomText": "004-0505",
+              "ScheduleSummary": "יום רביעי 10:30-11:30",
+              "ScheduleText": "יום רביעי 10:30-11:30",
+              "Seark": "",
+              "Short": "ת-13",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000071146',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000071146',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00071146",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "רועי",
+                    "LastName": "שטיינברג",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "מר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000071146',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000071146',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091451',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091453",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021968",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762041600000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769299200000)/",
+              "Name": "הרצאה 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00230280",
+              "RoomText": "023-0280",
+              "ScheduleSummary": "יום ראשון 15:30-17:30",
+              "ScheduleText": "יום ראשון 15:30-17:30",
+              "Seark": "",
+              "Short": "ה-10",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00014962",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "עדו",
+                    "LastName": "טל",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "פרופ\"ח",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50064418',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50074443',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50074443',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50074443",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "014",
+        "Short": "014-00440268",
+        "Name": "קב014מבוא למבני נתונים ואלגוריתמים",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091452",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00033114",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1761782400000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769644800000)/",
+              "Name": "תרגיל 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00230165",
+              "RoomText": "023-0165",
+              "ScheduleSummary": "יום חמישי 13:30-14:30",
+              "ScheduleText": "יום חמישי 13:30-14:30",
+              "Seark": "",
+              "Short": "ת-00440268",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000073451',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000073451',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00073451",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "גל סמואל",
+                    "LastName": "סיגל",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "מר",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000073451',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000073451',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091452',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50091453",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00021968",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1762041600000)/",
+              "FurtherInfoDescription": "מב.מבני נתון אלגו.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769299200000)/",
+              "Name": "הרצאה 00440268",
+              "OfferPattern": "WISP",
+              "OfferPatternText": "חורף + אביב",
+              "OrgId": "00002050",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00230280",
+              "RoomText": "023-0280",
+              "ScheduleSummary": "יום ראשון 15:30-17:30",
+              "ScheduleText": "יום ראשון 15:30-17:30",
+              "Seark": "",
+              "Short": "ה-10",
+              "StudyContentDescription": "מטרת הקורס להקנות את המושגים של מבנה נתונים מופשט, מבני נתונים, אלגוריתמים וסיב\r\nוכיות. מבני הנתונים כוללים מחסניות, תורים, דו-תורים,תורי קדימות, ערימות, טבלאות\r\n ערבול, עצים, עצים מאוזנים וגרפים. הנושאים האלגוריתמים כוללים הפרד ומשול, אלגור\r\nיתמים חמדניים, רקורסיה ורנדומיזציה. האלגוריתמים כוללים אלגוריתמי מיון, אלגוריתמ\r\nי חיפוש, אלגוריתמי ערבול, אלגוריתמים בגרפים, כולל חיפושי עומק ורוחב, עצים פורשי\r\nם מינימום, מציאת רכיבים קשירים ואלגוריתמים בסיסיים למציאת מסלולים קצרים. נושאי\r\nהסיבוכיות כוללים אנליזה אסימפטוטית וחסמים עליונים ותחתונים.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00014962",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "עדו",
+                    "LastName": "טל",
+                    "OrgId": "00002050",
+                    "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+                    "Seark": "",
+                    "Title": "פרופ\"ח",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000014962',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050091453',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50074443',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      }
+    ]
+  }
+}

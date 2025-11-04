@@ -1,0 +1,251 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50074472',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50074472',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.SeObject"
+        },
+        "Otjid": "SE50074472",
+        "ZzEOtjid": "",
+        "ZzSeCategory": "",
+        "Peryr": "2025",
+        "ZzSeCategoryText": "",
+        "Perid": "200",
+        "ZzSeSeqnr": "010",
+        "Short": "010-00160304",
+        "Name": "קב010",
+        "Descr": "",
+        "EObjectSet": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50092176",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "PRAC",
+              "CategoryText": "תרגול",
+              "ContactHours": "2.00",
+              "DObjid": "00034142",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1761696000000)/",
+              "FurtherInfoDescription": "פיסיקה מתק. של האטמ.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769558400000)/",
+              "Name": "תרגיל 00160304",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200511",
+              "RoomText": "020-0511",
+              "ScheduleSummary": "יום רביעי 11:30-12:30",
+              "ScheduleText": "יום רביעי 11:30-12:30",
+              "Seark": "",
+              "Short": "ת-00160304",
+              "StudyContentDescription": "הקורס יעסוק לעומק בתופעות מטאורולוגיות ובקשר שלהן לאיכות האוויר. הנושאים שיילמד\r\nו בקורס כוללים: תופעות מטאורולוגיות בסקאלות מרחב וזמן שונות, מערכות מזג אוויר ב\r\nישראל, שכבת הגבול הפלנטרית, טורבולנציה, חתך רוח לוגריתמי, שטפי חום וחומר באטמוס\r\nפירה, זרימה בנוף, פיסיקה של עננים ויצירת משקעים תוצאות למידה: בסיום הקורס הסטוד\r\nנט: 1. יכיר מגוון של תופעות מטאורולוגיות להן אופייני מרחב וזמן שונים. 2. יכיר א\r\nת המודלים המרכזיים המתארים את התופעות הללו. 3. יהיה מסוגל לפתור בעיות כמותיות ה\r\nמשתמשות במודלים הנ\"ל. 4. יוכל להתמודד עם טקסטים מדעיים העוסקים בתופעות הללו, לנ\r\nתח אותם, ולהציגם בכיתה. 5. לדון בקשרים שבין תופעות מטאורולוגיות בסקאלות זמן ומר\r\nחב שונות לבין תופעות ואירועי\r\n זיהום אוויר.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": []
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092176',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.EObject"
+              },
+              "Otjid": "E 50092177",
+              "Peryr": "2025",
+              "Perid": "200",
+              "AttendanceRequired": false,
+              "CHourUnit": "H",
+              "Category": "LEC",
+              "CategoryText": "הרצאה",
+              "ContactHours": "2.00",
+              "DObjid": "00022930",
+              "Daysoff": false,
+              "DeliveryMode": "",
+              "DeliveryModeText": "",
+              "Descr": "",
+              "ENumber": "0000",
+              "Eday": "",
+              "Ehour": "",
+              "FirstDate": "/Date(1761696000000)/",
+              "FurtherInfoDescription": "פיסיקה מתק. של האטמ.",
+              "FurtherInfoHeadline": "הערות",
+              "HasSchedule": true,
+              "Language": "B",
+              "LanguageText": "עברית",
+              "LastDate": "/Date(1769558400000)/",
+              "Name": "הרצאה 00160304",
+              "OfferPattern": "WSSS",
+              "OfferPatternText": "חורף + אביב + קיץ",
+              "OrgId": "00002010",
+              "OrgText": "",
+              "Person": "",
+              "Points": "0.00000",
+              "PointsMaximum": "0.00000",
+              "PointsMinimum": "0.00000",
+              "PrerequisitesDescription": "",
+              "PrerequisitesHeadline": "",
+              "RegistrationDeadline": null,
+              "RegistrationStart": null,
+              "RegistrationType": "",
+              "RegistrationTypeText": "",
+              "RoomHinweise": false,
+              "RoomId": "G 00200511",
+              "RoomText": "020-0511",
+              "ScheduleSummary": "יום רביעי 09:30-11:30",
+              "ScheduleText": "יום רביעי 09:30-11:30",
+              "Seark": "",
+              "Short": "ה-00160304",
+              "StudyContentDescription": "הקורס יעסוק לעומק בתופעות מטאורולוגיות ובקשר שלהן לאיכות האוויר. הנושאים שיילמד\r\nו בקורס כוללים: תופעות מטאורולוגיות בסקאלות מרחב וזמן שונות, מערכות מזג אוויר ב\r\nישראל, שכבת הגבול הפלנטרית, טורבולנציה, חתך רוח לוגריתמי, שטפי חום וחומר באטמוס\r\nפירה, זרימה בנוף, פיסיקה של עננים ויצירת משקעים תוצאות למידה: בסיום הקורס הסטוד\r\nנט: 1. יכיר מגוון של תופעות מטאורולוגיות להן אופייני מרחב וזמן שונים. 2. יכיר א\r\nת המודלים המרכזיים המתארים את התופעות הללו. 3. יהיה מסוגל לפתור בעיות כמותיות ה\r\nמשתמשות במודלים הנ\"ל. 4. יוכל להתמודד עם טקסטים מדעיים העוסקים בתופעות הללו, לנ\r\nתח אותם, ולהציגם בכיתה. 5. לדון בקשרים שבין תופעות מטאורולוגיות בסקאלות זמן ומר\r\nחב שונות לבין תופעות ואירועי\r\n זיהום אוויר.",
+              "StudyContentHeadline": "",
+              "Today": false,
+              "Unit": "",
+              "ZzDName": "",
+              "ZzDepartmentCode": "",
+              "ZzDepartmentName": "",
+              "ZzHospitalCode": "",
+              "ZzHospitalName": "",
+              "ZzNonAffHospital": "",
+              "ZzPersonalized": false,
+              "ZzSchedType": "",
+              "ZzUrlLink": "",
+              "ZzUrlText": "",
+              "Rooms": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')/Rooms"
+                }
+              },
+              "Organizations": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')/Organizations"
+                }
+              },
+              "Persons": {
+                "results": [
+                  {
+                    "__metadata": {
+                      "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004317',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004317',Peryr='2025',Perid='200',ZzExamFunction='')",
+                      "type": "NVIAS_CDIR_DATA_SRV.PObject"
+                    },
+                    "Otjid": "P 00004317",
+                    "Peryr": "2025",
+                    "Perid": "200",
+                    "FirstName": "דוד",
+                    "LastName": "ברודאי",
+                    "OrgId": "00002010",
+                    "OrgText": "הפקולטה להנדסה אזרחית וסביבתית",
+                    "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/01-%D7%94%D7%A0%D7%93%D7%A1%D7%94-%D7%90%",
+                    "Seark": "",
+                    "Title": "פרופ'",
+                    "ZzContactUrl": "",
+                    "ZzExamFunction": "",
+                    "ZzExamFunctionText": "",
+                    "Events": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004317',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                      }
+                    },
+                    "Responsible": {
+                      "__deferred": {
+                        "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004317',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                      }
+                    }
+                  }
+                ]
+              },
+              "Schedule": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')/Schedule"
+                }
+              },
+              "Modules": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')/Modules"
+                }
+              },
+              "SeObjectSet": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EObjectSet(Otjid='E%2050092177',Peryr='2025',Perid='200')/SeObjectSet"
+                }
+              }
+            }
+          ]
+        },
+        "SmObjectSet": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SeObjectSet(Otjid='SE50074472',Peryr='2025',Perid='200')/SmObjectSet"
+          }
+        }
+      }
+    ]
+  }
+}

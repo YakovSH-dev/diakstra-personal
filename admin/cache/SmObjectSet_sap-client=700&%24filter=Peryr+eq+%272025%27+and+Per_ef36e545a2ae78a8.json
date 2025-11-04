@@ -1,0 +1,67 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00380746',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00380746',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM00380746",
+        "Points": "2.00000",
+        "Name": "תכונות מכניות של חומרים הנדסיים",
+        "OrgText": "הפקולטה להנדסת מכונות",
+        "StudyContentDescription": "בסיס פיסיקלי וניסוח אנליטי לתכונות מכניות של מתכות וחומרים פלסטיים. תכונות: אלסטיות, פלסטיות, כולל השפעת קצב העבור. ויסקואלסטיות. זחילה. התעייפות. שבר פריך ומשיך. ריסון פנימי. טיפול במשוואות המתארות תכונות מכניות על בסיס תכונות פיסיקליות מיקרוסקופיות של החומר. שיטות ניסיוניות למדידת וניתוח תכונות.",
+        "ZzAcademicLevel": "0003",
+        "ZzAcademicLevelText": "תארים מתקדמים",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00380746',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00380746',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00380746",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "00340029",
+              "ModuleShort": "מק-00340029",
+              "ModuleName": "מכניקת מוצקים 2",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00380746',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00380746',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00380746",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02360340',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02360340',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM02360340",
+        "Points": "3.00000",
+        "Name": "פרויקט בתקשורת מחשבים",
+        "OrgText": "הפקולטה למדעי המחשב",
+        "StudyContentDescription": "מטרת הפרויקט להעמיק את הידע של הסטודנטים בפרוטוקולי תקשורת ולאפשר להם להתנסות במחקר ובפיתוח של פרוטוקולים אלה. הסטודנטים יבצעו פרויקט מקיף וחדשני בתחומים שהם בקדמת הטכנולוגיה של רשתות תקשורת מחשבים והאינטרנט. הפרויקט יבוצע בד\"כ על פלטפורמת XUNIL תוך שימוש בכלים מתקדמים לסימולציה של רשתות. תוצאות למידה: בסיום הפרויקט הסטודנט יהיה מסוגל לבצע מטלות תכנותיות מורכבות הקשורות לפרוטוקולי תקשורת וטכנולוגיות רשת חדשניות.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "1. במקביל לרישום נא לפנות למהנדס המעבדה  להתאמת פרויקט.\n2. יש לוודא קורס קדם: 236334 או 044334 (ניתן לבצע את הפרויקט בצמוד לקורס הקדם רק במקרים מיוחדים ובאישור ראש המעבדה).",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004245',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004245',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00004245",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "ראובן",
+              "LastName": "כהן",
+              "OrgId": "00002120",
+              "OrgText": "הפקולטה למדעי המחשב",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/23-%D7%9E%D7%93%D7%A2%D7%99-%D7%94%D7%9E%",
+              "Seark": "",
+              "Title": "פרופ'",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004245',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000004245',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360340',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360340',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02360340",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "02360334",
+              "ModuleShort": "מק-02360334",
+              "ModuleName": "מבוא לרשתות מחשבים",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360340',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360340',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02360340",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00940290',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00940290',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM00940290",
+        "Points": "3.00000",
+        "Name": "מעבדה באיסוף וניהול נתונים",
+        "OrgText": "מדעי הנתונים וההחלטות",
+        "StudyContentDescription": "קביעת הציון על פי מעקב במהלך הסמסטר והגשת דו\"חות דו-שבועית. המעבדה מכסה את הנושאים הבאים: איסוף נתונים מסנסורים, השמטת נתונים מושכלת, קריאת קובץ פלט ופיצולו לזרמי מאורעות, ניקוי נתונים, שמירת נתונים בענן, שמירת ואחזור נתונים ממסד ECUDER-PAM ,LQSON, ו-.POODAH",
+        "ZzAcademicLevel": "0001",
+        "ZzAcademicLevelText": "לימודי הסמכה",
+        "ZzSemesterNote": "שימו לב - המעבדה תערך ביום ג' בשעה 16:30-18:30",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00940290',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00940290',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00940290",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "00960224",
+              "ModuleShort": "מק-00960224",
+              "ModuleName": "ניהול מידע מבוזר",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00940290',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00940290',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00940290",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

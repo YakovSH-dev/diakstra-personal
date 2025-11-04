@@ -1,0 +1,67 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00360050',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00360050',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM00360050",
+        "Points": "3.00000",
+        "Name": "מערכות בקרה לא-לינאריות",
+        "OrgText": "הפקולטה להנדסת מכונות",
+        "StudyContentDescription": "מבוא. מערכת דינמית מוכללת.יציבות לפי לאיפונוב - ליניאריזציה במרחב המצב, השיטה הראשונה והשניה. שיטת פופוב ליציבות אסימפטוטית בציר התדר. הפונקציה המתארת ניתוח קיום ויציבות מחזור גבולי בציר התדר. בקרי XAM-NIM יציבות אסימפטוטית בתנאי אי ודאות ו- SSV. יציבות מערכות בילינאריות. בקרה אדפטיבית.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360050',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360050',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00360050",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "00350188",
+              "ModuleShort": "מק-00350188",
+              "ModuleName": "תורת הבקרה",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360050',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360050',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00360050",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

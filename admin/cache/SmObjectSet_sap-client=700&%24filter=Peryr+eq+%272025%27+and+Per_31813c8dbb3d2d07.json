@@ -1,0 +1,98 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01180093',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01180093',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM01180093",
+        "Points": "2.00000",
+        "Name": "פרקים נבחרים בגישות עיוניות",
+        "OrgText": "הפקולטה לפיזיקה",
+        "StudyContentDescription": "הקורס יכלול מושגים עיוניים בסיסיים ומתמטיים בשטחים שונים בפיסיקת המצב המוצק, במכניקה סטטיסטית ובאלקטרודינמיקה ואופטיקה קוונטית.",
+        "ZzAcademicLevel": "0003",
+        "ZzAcademicLevelText": "תארים מתקדמים",
+        "ZzSemesterNote": "תרגיל - יום ראשון 09:30-10:30 בחדר סמינרים 502 בפקולטה לפיזיקה",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000001527',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000001527',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00001527",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "נימרוד",
+              "LastName": "מויסייב",
+              "OrgId": "00002060",
+              "OrgText": "הפקולטה לכימיה",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/12-%D7%9B%D7%99%D7%9E%D7%99%D7%94-%D7%AA%",
+              "Seark": "",
+              "Title": "פרופסור אמריטוס",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000001527',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000001527',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01180093',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01180093',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01180093",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "00460241",
+              "ModuleShort": "מק-00460241",
+              "ModuleName": "מכניקה קוונטית",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01180093',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01180093',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01180093",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

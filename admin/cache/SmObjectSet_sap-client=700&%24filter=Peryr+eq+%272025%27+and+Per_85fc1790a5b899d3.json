@@ -1,0 +1,226 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01040182',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01040182',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM01040182",
+        "Points": "2.00000",
+        "Name": "סמינר באנליזה להסמכה 2",
+        "OrgText": "הפקולטה למתמטיקה",
+        "StudyContentDescription": "לימוד פרקים נבחרים באנליזה.",
+        "ZzAcademicLevel": "0001",
+        "ZzAcademicLevelText": "לימודי הסמכה",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063089',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063089',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00063089",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "לירן",
+              "LastName": "רותם",
+              "OrgId": "00002100",
+              "OrgText": "הפקולטה למתמטיקה",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/10-%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D",
+              "Seark": "",
+              "Title": "פרופ\"ח",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063089',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063089',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "01040142",
+              "ModuleShort": "מק-01040142",
+              "ModuleName": "מבוא למרחבים מטריים וטופולוגיים",
+              "Operator": "AND",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "01040285",
+              "ModuleShort": "מק-01040285",
+              "ModuleName": "משוואות דיפרנציאליות רגילות א'",
+              "Operator": "AND",
+              "LineNumber": "002"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='003')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='003')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "0000",
+              "Bracket": "",
+              "Perid": "000",
+              "ModuleId": "01040282",
+              "ModuleShort": "מק-01040282",
+              "ModuleName": "חשבון אינפי 3",
+              "Operator": "AND",
+              "LineNumber": "003"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='004')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='004')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "01040122",
+              "ModuleShort": "מק-01040122",
+              "ModuleName": "תורת הפונקציות 1",
+              "Operator": "",
+              "LineNumber": "004"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='005')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='005')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "005"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='006')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='006')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "01040122",
+              "ModuleShort": "מק-01040122",
+              "ModuleName": "תורת הפונקציות 1",
+              "Operator": "AND",
+              "LineNumber": "006"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='007')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='007')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "01040295",
+              "ModuleShort": "מק-01040295",
+              "ModuleName": "חשבון אינפיניטסימלי 3",
+              "Operator": "AND",
+              "LineNumber": "007"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='008')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='008')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "01040285",
+              "ModuleShort": "מק-01040285",
+              "ModuleName": "משוואות דיפרנציאליות רגילות א'",
+              "Operator": "AND",
+              "LineNumber": "008"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='009')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='009')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "01040142",
+              "ModuleShort": "מק-01040142",
+              "ModuleName": "מבוא למרחבים מטריים וטופולוגיים",
+              "Operator": "",
+              "LineNumber": "009"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='010')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01040182',LineNumber='010')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01040182",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "010"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

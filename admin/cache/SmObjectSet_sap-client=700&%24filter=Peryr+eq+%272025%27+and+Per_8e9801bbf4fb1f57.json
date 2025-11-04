@@ -1,0 +1,99 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00360087',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00360087',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM00360087",
+        "Points": "3.00000",
+        "Name": "דינמיקה היברידית במערכות מכניות",
+        "OrgText": "הפקולטה להנדסת מכונות",
+        "StudyContentDescription": "ניתוח התנהגות של מערכות מכניות ורובוטיות מרובות מגעים חד-כיווניים תחת אילוצי חיכוך.  קינמטיקה של מגע וכוחות מגע, חיכוך קולוני, סטטיקה-שיטות גרפיות, ניסוח דינמיקה עם אילוצים עבור מצבי מגע שונים, פרדוקס EVELNIAP ותופעת GNIMMAJ CIMANYD, מודלים של אימפקט, תופעת ONEZ,יציבות מסלולים מחזוריים במערכת היברידית, מפת פואנקרה. מודלים של הליכה דינמית רובוטית. תוצאות למידה: בסיום הסטודנט ידע: 1. לנתח בעיות סטטיקה מישוריות מרובות מגעים חד-כיווניים עם חיכוך באופן גרפי ועל ידי פתרון בעיית תכנות ליניארי. 2. לנסח משוואות תנועה דינמיות של מערכת מכנית עם אילוצי מגע. 3. לנסח תנאים לקיום הפרדוקס של EVELNIAP במערכת עם מגע יחיד וחיכוך. 4. לנסח חוקים של מתקף (אימפקט) במגע יחיד  עם או בלי חיכוך עבור מערכת גופים קשיחים. 5. לנסח משוואות תנועה של מערכת מכנית עם מגעים משתנים כמערכת דינמית היברידית. 6. לבצע סימולציה נומרית ממוחשבת של מערכת מכנית עם מגעים משתנים. 7. למצוא פתרונות מחזוריים במערכת דינמית היברידית ולנתח את יציבותם באמצעות מפת פואנקרה. 8. להכיר את המודלים הפשוטים של הליכה דינמית רובוטית.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00360087",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "00340010",
+              "ModuleShort": "מק-00340010",
+              "ModuleName": "דינמיקה",
+              "Operator": "AND",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00360087",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "00340032",
+              "ModuleShort": "מק-00340032",
+              "ModuleName": "מערכות ליניאריות מ'",
+              "Operator": "AND",
+              "LineNumber": "002"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='003')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='003')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00360087",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "00340040",
+              "ModuleShort": "מק-00340040",
+              "ModuleName": "מבוא לבקרה",
+              "Operator": "",
+              "LineNumber": "003"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='004')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00360087',LineNumber='004')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00360087",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "004"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

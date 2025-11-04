@@ -1,0 +1,275 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00970252',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM00970252',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM00970252",
+        "Points": "3.50000",
+        "Name": "תכנון אוטונומי בתנאי אי ודאות",
+        "OrgText": "מדעי הנתונים וההחלטות",
+        "StudyContentDescription": "הקורס יקנה כלים מתמטיים וגישות לפתרון בעיות של תכנון תחת אי ודאות בתנאיי צפיות חלקית בהקשרים של בינה מלאכותית ורובוטיקה. הנושאים שילמדו כוללים: מרחב הסתברותי, הסקה הסתברותית, הסקה הסתברותית לא פרמטרית, הגדרות בעיות MDP ו-POMDP, תכנון במרחב הסתברותי, פונקציות מחיר information theoretic, גישות לא מקוונות לפתרון MDP ו-POMDP (תכנות דינמי, value iteration, policy iteration, alpha vectors), גישות מקוונות לפתרון MDP (forward search, branch & bound,, דגימה דלילה, Monte Carlo Tree Search), גישות online לפתרון POMDP (POMCP, POMCPOW, PFT-DPW), תכנון חסין ומודע-סיכונים תחת אי ודאות.  \nתוצאות למידה: בסיום הקורס הסטודנטיות והסטודנטים יהיו מסוגלים:\n1. לנסח ולנתח מתמטית בעיות תכנון בבינה מלאכותית וברובוטיקה. \n2. לממש אלגוריתמים בתכנון במרחב הסתברותי שנלמדו ולהשתמש בפותרני POMDP לחישוב פתרון בעיות התכנון הללו\n3. להבין גישות שונות לפתרון בעיות\nPOMDP. 4. להבין אתגרים וגישות לתכנון חסין ומודע לסיכונים.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "הרישום לקורס הינו ידני בתיאום עם המרצה ואדים אינדלמן במייל vadim.indelman@technion.ac.il. יש לשלוח בקשה לרישום עד התאריך ה20.7.",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "00960210",
+              "ModuleShort": "מק-00960210",
+              "ModuleName": "יסודות בינה מלאכותית וישומיה",
+              "Operator": "AND",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "00940314",
+              "ModuleShort": "מק-00940314",
+              "ModuleName": "מודלים סטוכסטיים בחקר בצועים",
+              "Operator": "",
+              "LineNumber": "002"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='003')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='003')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "003"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='004')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='004')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "00940314",
+              "ModuleShort": "מק-00940314",
+              "ModuleName": "מודלים סטוכסטיים בחקר בצועים",
+              "Operator": "AND",
+              "LineNumber": "004"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='005')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='005')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "02360501",
+              "ModuleShort": "מק-02360501",
+              "ModuleName": "מבוא לבינה מלאכותית",
+              "Operator": "",
+              "LineNumber": "005"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='006')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='006')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "006"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='007')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='007')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "02360501",
+              "ModuleShort": "מק-02360501",
+              "ModuleName": "מבוא לבינה מלאכותית",
+              "Operator": "AND",
+              "LineNumber": "007"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='008')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='008')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "00440202",
+              "ModuleShort": "מק-00440202",
+              "ModuleName": "אותות אקראיים",
+              "Operator": "",
+              "LineNumber": "008"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='009')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='009')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "009"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='010')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='010')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "00860733",
+              "ModuleShort": "מק-00860733",
+              "ModuleName": "תהליכים אקראיים במערכות אויר-חלל",
+              "Operator": "AND",
+              "LineNumber": "010"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='011')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='011')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "02360501",
+              "ModuleShort": "מק-02360501",
+              "ModuleName": "מבוא לבינה מלאכותית",
+              "Operator": "",
+              "LineNumber": "011"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='012')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='012')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "OR",
+              "LineNumber": "012"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='013')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='013')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "00440202",
+              "ModuleShort": "מק-00440202",
+              "ModuleName": "אותות אקראיים",
+              "Operator": "AND",
+              "LineNumber": "013"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='014')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='014')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "2025",
+              "Bracket": "",
+              "Perid": "200",
+              "ModuleId": "00960210",
+              "ModuleShort": "מק-00960210",
+              "ModuleName": "יסודות בינה מלאכותית וישומיה",
+              "Operator": "",
+              "LineNumber": "014"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='015')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='00970252',LineNumber='015')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "00970252",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "015"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

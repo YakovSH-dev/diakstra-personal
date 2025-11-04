@@ -1,0 +1,1124 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000001',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000001',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000001",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1761782400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000001',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000001',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000001',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000002',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000002',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000002",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1762387200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000002',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000002',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000002',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000003',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000003',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000003",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1762992000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000003',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000003',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000003',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000004',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000004',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000004",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1763596800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000004',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000004',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000004',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000005',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000005',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000005",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1764201600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000005',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000005',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000005',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000006',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000006',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000006",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1764806400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000006',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000006',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000006',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000007',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000007',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000007",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1765411200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000007',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000007',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000007',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000008',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000008',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000008",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1766620800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000008',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000008',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000008',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000009',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000009',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000009",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1767225600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000009',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000009',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000009',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000010',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000010',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000010",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1767830400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000010',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000010',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000010',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000011',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000011',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000011",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1768435200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000011',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000011',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000011',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000012',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000012',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000012",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1769040000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000012',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000012',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000012',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000013',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000013',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50090462",
+        "Seqnr": "000013",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT11H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00029097",
+        "Enduz": "PT12H30M00S",
+        "Evdat": "/Date(1769644800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל כימיה לפיסיקאים",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000013',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00220234",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין ע'ש אמדו",
+              "BuildingId": "022",
+              "Capacity": "94",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "022-0234",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "022-0234",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000220234',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000013',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050090462',Seqnr='000013',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      }
+    ]
+  }
+}

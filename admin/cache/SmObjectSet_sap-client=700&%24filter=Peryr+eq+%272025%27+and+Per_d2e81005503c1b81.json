@@ -1,0 +1,82 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01160611',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01160611',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM01160611",
+        "Points": "2.00000",
+        "Name": "נושאים נבחרים של מערכות חיות",
+        "OrgText": "הפקולטה לפיזיקה",
+        "StudyContentDescription": "מערכות חיות  מתקיימות מחוץ לשיווי משקל והתנהגותן אינה ניתנת לתיאור על ידי תורות פיזיקליות קלאסיות. הקורס יעסוק במערכות חיות טיפוסיות כגון תאים ולהקות של בעלי חיים, תוך שימוש בתאוריה הפיזיקלית של חומר אקטיבי. המושג \"\"ייצור אנטרופיה\"\" ישמש לפיתוח התורה ההידרודינמיתהאקטיבית, באמצעותה יילמדו תופעות פיזיקליות במערכות חיות, כמו זרמים ספונטניים, פגמים טופולוגיים, וטורבולנסיה אקטיבית. חלקו האחרון שלהקורס יוקדש להרצאות סטודנטים שיציגו מחקר עכשווי בתחום.\r\n תוצאות למידה: בסיום הקורס הסטודנטיות והסטודנטים יהיו מסוגלים:\r\n 1. לזהות תופעות מחוץ לשיווי משקל במערכות חיות.\r\n 2. להבין תכונות ייחודיות של חומר אקטיבי.\r\n 3. לפתח משוואות הידרודינמיות אקטיביות.\r\n \r\n",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "בחינה בתאום עם המרצה",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000075774',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000075774',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00075774",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רם מיכאל",
+              "LastName": "אדר",
+              "OrgId": "00002090",
+              "OrgText": "הפקולטה לפיזיקה",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/11-%D7%A4%D7%99%D7%96%D7%99%D7%A7%D7%94-%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000075774',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000075774',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01160611',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01160611',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01160611",
+              "Peryr": "0000",
+              "Bracket": "",
+              "Perid": "000",
+              "ModuleId": "01140036",
+              "ModuleShort": "מק-01140036",
+              "ModuleName": "פיסיקה סטטיסטית ותרמית",
+              "Operator": "",
+              "LineNumber": "001"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

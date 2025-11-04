@@ -1,0 +1,98 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02360667',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02360667',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM02360667",
+        "Points": "3.00000",
+        "Name": "נו. במערכות לומדות והתנהגות אנושי",
+        "OrgText": "הפקולטה למדעי המחשב",
+        "StudyContentDescription": "יוצגו תוצאות חדישות וכיווני מחקר נוכחיים במערכות לומדות והתנהגות אנושית  סילבוס מפורט יפורסם לפני תחילת  כל סמסטר בו יינתן הקורס.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "רישום לקורס הוא באישור מרצה בלבד. בכדי להגיש בקשה יש למלא את הטופס המקוון הבא: https://docs.google.com/forms/d/e/1FAIpQLSd_JMi-nK4NFQuknCYsIFjh6iiGDV8hzcDqhT2NBGRT8BbJ9w/viewform?usp=sharing&ouid=104163563442321216416",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000067608',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000067608',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00067608",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "ניר",
+              "LastName": "רוזנפלד",
+              "OrgId": "00002120",
+              "OrgText": "הפקולטה למדעי המחשב",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/23-%D7%9E%D7%93%D7%A2%D7%99-%D7%94%D7%9E%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000067608',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000067608',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360667',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360667',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02360667",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "02360756",
+              "ModuleShort": "מק-02360756",
+              "ModuleName": "מבוא למערכות לומדות",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360667',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360667',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02360667",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

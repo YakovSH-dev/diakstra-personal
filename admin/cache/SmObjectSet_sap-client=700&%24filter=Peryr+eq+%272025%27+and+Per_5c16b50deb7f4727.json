@@ -1,0 +1,65 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01340161',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01340161',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM01340161",
+        "Points": "1.00000",
+        "Name": "חשיפה למחקר עכשווי בביולגיה",
+        "OrgText": "הפקולטה לביולוגיה",
+        "StudyContentDescription": "הקורס יספק לסטודנטים חשיפה לעולם המחקר הביולוגי העכשווי, עם דגש על המחקר בפקולטה לביולוגיה בטכניון.",
+        "ZzAcademicLevel": "0001",
+        "ZzAcademicLevelText": "לימודי הסמכה",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000010366',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000010366',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00010366",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "פיליפה",
+              "LastName": "מלמד",
+              "OrgId": "00002340",
+              "OrgText": "הפקולטה לביולוגיה",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/13-%D7%91%D7%99%D7%95%D7%9C%D7%95%D7%92%D",
+              "Seark": "",
+              "Title": "פרופ'",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000010366',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000010366',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": []
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02060932',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02060932',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM02060932",
+        "Points": "3.00000",
+        "Name": "מעטפות חכמות: חזית החדשנות",
+        "OrgText": "הפקולטה לארכיטקטורה ובינוי ערים",
+        "StudyContentDescription": "הקורס יתמקד בפיתוחים האחרונים בתחום מעטפות הבניין מתוך ראיה רחבה של תפיסת הקיימות. הקורס יתמקד בהקניית מושגי היסוד הכרוכים בתפקוד ובטכנולוגיית המעטפת לתפקוד סביבתי גבוה! ותוצג חזית הפיתוח והעיצוב בתחום מעטפות בניין מתקדמות בארץ ובעולם! בדגש על היישום וההתאמה לתנאי אקלים! טכנולוגיות הבנייה הזמינות! ומסורות הבנייה והעיצוב השונות! בארץ ובעולם.\r\n תוצאות למידה: בסיום הקורס הסטודנטיות והסטודנטים יהיו מסוגלים: 1. להיחשף ליחסי הגומלין בין פיתוחים טכנולוגיים בתחום מעטפות הבניין ליישומם בפרקטיקה. \r\n 2. להכיר מדדים תפקודיים שונים של חזיתות מבנה ומושגי מפתח מקצועיים באפיון חזיתות.\r\n 3. לשלב שיקולי קיימות! תפקוד אקלימי ואיכות סביבתית בתכנון מעטפות בניין._\r\n 4. להכיר את  חזית המחקר והפיתוח בתחום טכנולוגיות וחומרים של מעטפות בניין בעולם.",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060932',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060932',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02060932",
+              "Peryr": "0000",
+              "Bracket": "(",
+              "Perid": "000",
+              "ModuleId": "02050492",
+              "ModuleShort": "מק-02050492",
+              "ModuleName": "מערכות הבניין - אקלים ואנרגיה",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060932',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02060932',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02060932",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

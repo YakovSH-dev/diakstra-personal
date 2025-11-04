@@ -1,0 +1,98 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02360768',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM02360768',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM02360768",
+        "Points": "3.00000",
+        "Name": "פרויקט ברובוטיקה",
+        "OrgText": "הפקולטה למדעי המחשב",
+        "StudyContentDescription": "הסטודנטים יתכננו! יממשו ויציגו פרוייקטים שונים בנושאי רובוטיקה . הפרוייקטים יוצעו על בסיס מאמרים מן הספרות השוטפת! ויכללו סקר ספרותקצר של בעיית תכנון רובוטית! אפיון פתרון ומימוש האלגוריתמים בסימולציות ועל רובוטים במעבדה דוגמת רובוטים קרקעיים! מניפולטורים או רחפנים. הסטודנטים יעבדו ביחידים או זוגות.\r\n תוצאות למידה: בסיום הקורס הסטודנטיות והסטודנטים יהיו מסוגלים:\r\n 1. לדרג אלגוריתמים וגישות לבעיות תכנון רובוטיות )לדוגמא! תכנון תנועה! תכנון משימה! סקירה אוטונומית! תכנון למערכות מרובות סוכנים(.\r\n 2. לממש אלגוריתמים לבעיות תכנוןרובוטיות הו בסימולציה והן על רובוטים.\r\n 3.לפרט ולהבדיל את הפערים בין התאוריה לפרקטיקה של אלגוריתמים ברובוטיקה. 4. לנתח סיבוכיות של אל גוריתמים ברובוטיקה.\r\n 5. לפתח אלגוריתמים לבעיות תכנון רובוטיות.\r\n",
+        "ZzAcademicLevel": "0002",
+        "ZzAcademicLevelText": "מקצוע משותף",
+        "ZzSemesterNote": "רישום ידני ע\"י המרצה אורן זלצמן\nosalzman@cs.technion.ac.il",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063073',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063073',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00063073",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "אורן",
+              "LastName": "זלצמן",
+              "OrgId": "00002120",
+              "OrgText": "הפקולטה למדעי המחשב",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/23-%D7%9E%D7%93%D7%A2%D7%99-%D7%94%D7%9E%",
+              "Seark": "",
+              "Title": "פרופ\"ח",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063073',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000063073',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360768',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360768',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02360768",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "02360501",
+              "ModuleShort": "מק-02360501",
+              "ModuleName": "מבוא לבינה מלאכותית",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360768',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='02360768',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "02360768",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

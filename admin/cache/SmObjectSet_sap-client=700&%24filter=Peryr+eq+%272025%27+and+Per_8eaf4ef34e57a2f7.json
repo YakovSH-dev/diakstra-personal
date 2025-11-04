@@ -1,0 +1,67 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01380069',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM01380069',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM01380069",
+        "Points": "2.00000",
+        "Name": "שיטות מיקרוסקופיה במדעי החיים",
+        "OrgText": "הפקולטה לביולוגיה",
+        "StudyContentDescription": "יסודות של שיטות מיקרוסקופייה מתקדמות! כולל טכניקות סופר-רזולוציה! וכן את היישומים שלהן. הקורס יעניק מושגי יסוד במיקרוסקופ אור! הבנתהאופטיקה! הקרינה והפילטרים! פרמטרים של הדמיה דיגיטלית וניתוח תמונה! ויציג יישומים מתקדמים של מערכות מיקרוסקופיה אופטיות. נלמד את היסודות של מגוון שיטות לתיוג מולקולות שונות לזיהוי ומעקב פלורסנטי בתאים חיים! בדגש על דוגמאות ספציפיות מעבודות מחקר עדכניות ברזולוצייתהמולקולה הבודדת. עקרונות של הכנת דגימות של תאים חיים ומקובעים ועל שיטות שונות למעקב על תהליכים דינמיים! פוטו-מניפולציה ופוטו-אקטיבציה. \r\n תוצאות למידה: בסיום הקורס הסטודנטיות והסטודנטים יהיו מסוגלים:\r\n 1. להבין ולפרש כיצד עובדות מערכות מיקרוסקופיות שונות לטובת מחקרם .\r\n 2. לתכנן ניסויי הדמייה בביולוגיה של התא.\r\n 3. להשוות בין שיטות שונות לצביעות תאים ומגוון מולקולות.\r\n 4. להשוות בין שיטות מתקדמות של מיקרוסקופיה אופטית.\r\n 5. להכיר ולהבין לעומק שיטות ניתוח שונות לאנליזת תוצאות.\r\n 6. להכיר את הפרמטרים העיקריים להבנת והשוואת מחקרים בשיטות מיקרוסקופיה אופטית.\r\n",
+        "ZzAcademicLevel": "0003",
+        "ZzAcademicLevelText": "תארים מתקדמים",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": []
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01380069',LineNumber='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01380069',LineNumber='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01380069",
+              "Peryr": "2025",
+              "Bracket": "(",
+              "Perid": "200",
+              "ModuleId": "01340058",
+              "ModuleShort": "מק-01340058",
+              "ModuleName": "ביולוגיה 1",
+              "Operator": "",
+              "LineNumber": "001"
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01380069',LineNumber='002')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmPrerequisitesSet(DependentModuleId='01380069',LineNumber='002')",
+                "type": "NVIAS_CDIR_DATA_SRV.SmPrerequisites"
+              },
+              "DependentModuleId": "01380069",
+              "Peryr": "0000",
+              "Bracket": ")",
+              "Perid": "000",
+              "ModuleId": "00000000",
+              "ModuleShort": "",
+              "ModuleName": "",
+              "Operator": "",
+              "LineNumber": "002"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

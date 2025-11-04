@@ -1,0 +1,135 @@
+{
+  "d": {
+    "__count": "1",
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM03240602',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/SmObjectSet(Otjid='SM03240602',Peryr='2025',Perid='200',ZzCgOtjid='',ZzPoVersion='',ZzScOtjid='')",
+          "type": "NVIAS_CDIR_DATA_SRV.SmObject"
+        },
+        "Otjid": "SM03240602",
+        "Points": "2.00000",
+        "Name": "יפנית למתחילים",
+        "OrgText": "המחלקה ללימודים הומניסטיים ואמנות",
+        "StudyContentDescription": "הקורס יכלול הקדמה לגבי השפה היפנית, לימוד שיטות הכתב הפונטיות, לימוד של כ- 50 - 100 סימונים סינים, הסבר על מבנה המשפט היפני, תרגול שיחה לגבי מצבים בסיסיים, וקריאה של דיאלוגים קצרים.",
+        "ZzAcademicLevel": "0001",
+        "ZzAcademicLevelText": "לימודי הסמכה",
+        "ZzSemesterNote": "",
+        "Exams": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/CeObjectSet(Otjid='CE00032650',Peryr='2025',Perid='200',OfferNo='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/CeObjectSet(Otjid='CE00032650',Peryr='2025',Perid='200',OfferNo='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.CeObject"
+              },
+              "Otjid": "CE00032650",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Category": "מבחן מועד א",
+              "CategoryCode": "FI",
+              "DregDateEnd": "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              0",
+              "DregDateStart": "0",
+              "ExamBegTime": "PT00H00M00S",
+              "ExamDate": "/Date(1769904000000)/",
+              "ExamEndTime": "PT00H00M00S",
+              "ExamType": "מבחן בכתב",
+              "Name": "מבחן מועד א 03240602",
+              "OfferNo": "001",
+              "Person": "",
+              "PersonOtjid": "",
+              "Points": "2.00000",
+              "PointsMaximum": "2.00000",
+              "PointsMinimum": "2.00000",
+              "RegisDateEnd": "0",
+              "RegisDateStart": "0",
+              "RoomName": "",
+              "RoomOtjid": "",
+              "Seark": "",
+              "Short": "מב1_03240602",
+              "Unit": "CP",
+              "ZzApprovedTools": "",
+              "ZzDName": "",
+              "ZzDOtjid": "",
+              "ZzExamOfferGuid": "005056B8E2331FD093ED6725B9D5D9F5",
+              "ZzExamOfferParentGuid": "",
+              "ZzExclusiveExtraTimeSt": "",
+              "ZzExclusiveExtraTimeStT": "לסטודנטים ללא תוספת זמן",
+              "ZzHeldDigital": false,
+              "ZzOnlineRegPossible": false,
+              "ZzSeComment": "",
+              "ZzSmName": "יפנית למתחילים",
+              "ZzSmOtjid": "SM03240602",
+              "ZzSmShort": "מק-03240602",
+              "Persons": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/CeObjectSet(Otjid='CE00032650',Peryr='2025',Perid='200',OfferNo='001')/Persons"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/CeObjectSet(Otjid='CE00060287',Peryr='2025',Perid='200',OfferNo='001')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/CeObjectSet(Otjid='CE00060287',Peryr='2025',Perid='200',OfferNo='001')",
+                "type": "NVIAS_CDIR_DATA_SRV.CeObject"
+              },
+              "Otjid": "CE00060287",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Category": "מבחן מועד ב",
+              "CategoryCode": "FB",
+              "DregDateEnd": "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 20260223235959",
+              "DregDateStart": "20260201000000",
+              "ExamBegTime": "PT00H00M00S",
+              "ExamDate": "/Date(1772323200000)/",
+              "ExamEndTime": "PT00H00M00S",
+              "ExamType": "מבחן בכתב",
+              "Name": "מבחן מועד ב 03240602",
+              "OfferNo": "001",
+              "Person": "",
+              "PersonOtjid": "",
+              "Points": "2.00000",
+              "PointsMaximum": "2.00000",
+              "PointsMinimum": "2.00000",
+              "RegisDateEnd": "20260223235959",
+              "RegisDateStart": "20260201000000",
+              "RoomName": "",
+              "RoomOtjid": "",
+              "Seark": "",
+              "Short": "מב2_03240602",
+              "Unit": "CP",
+              "ZzApprovedTools": "",
+              "ZzDName": "",
+              "ZzDOtjid": "",
+              "ZzExamOfferGuid": "005056B8E2331FD094A1867C0677B9F5",
+              "ZzExamOfferParentGuid": "",
+              "ZzExclusiveExtraTimeSt": "",
+              "ZzExclusiveExtraTimeStT": "לסטודנטים ללא תוספת זמן",
+              "ZzHeldDigital": false,
+              "ZzOnlineRegPossible": true,
+              "ZzSeComment": "",
+              "ZzSmName": "יפנית למתחילים",
+              "ZzSmOtjid": "SM03240602",
+              "ZzSmShort": "מק-03240602",
+              "Persons": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/CeObjectSet(Otjid='CE00060287',Peryr='2025',Perid='200',OfferNo='001')/Persons"
+                }
+              }
+            }
+          ]
+        },
+        "Responsible": {
+          "results": []
+        },
+        "SmRelations": {
+          "results": []
+        },
+        "SmPrereq": {
+          "results": []
+        }
+      }
+    ]
+  }
+}

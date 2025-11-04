@@ -1,0 +1,1124 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000001',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000001',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000001",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1762041600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000001',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000001',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000001',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000002',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000002',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000002",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1762646400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000002',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000002',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000002',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000003',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000003',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000003",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1763251200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000003',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000003',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000003',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000004',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000004',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000004",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1763856000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000004',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000004',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000004',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000005',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000005',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000005",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1764460800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000005',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000005',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000005',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000006',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000006',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000006",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1765065600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000006',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000006',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000006',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000007',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000007',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000007",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1765670400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000007',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000007',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000007',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000008',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000008',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000008",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1766275200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000008',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000008',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000008',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000009',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000009',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000009",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1766880000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000009',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000009',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000009',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000010',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000010',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000010",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1767484800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000010',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000010',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000010',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000011',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000011',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000011",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1768089600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000011',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000011',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000011',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000012',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000012',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000012",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1768694400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000012',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000012',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000012',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000013',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000013',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50093775",
+        "Seqnr": "000013",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT14H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "50056757",
+        "Enduz": "PT15H30M00S",
+        "Evdat": "/Date(1769299200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל 00970252",
+        "ZzEventShort": "תר-11",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000013',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00090112",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "קופר- מדעי הנתונים",
+              "BuildingId": "009",
+              "Capacity": "40",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "009-0112",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "009-0112",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000090112',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000013',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050093775',Seqnr='000013',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      }
+    ]
+  }
+}

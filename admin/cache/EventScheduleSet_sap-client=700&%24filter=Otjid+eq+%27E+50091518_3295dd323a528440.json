@@ -1,0 +1,1618 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000001',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000001',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000001",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1762128000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000001',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000001',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000001',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000002',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000002',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000002",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1762732800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000002',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000002',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000002',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000003',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000003',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000003",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1763337600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000003',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000003',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000003',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000004',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000004',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000004",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1763942400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000004',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000004',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000004',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000005',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000005',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000005",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1764547200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000005',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000005',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000005',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000006',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000006',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000006",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1765152000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000006',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000006',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000006',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000007',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000007',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000007",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1765756800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000007',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000007',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000007',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000008',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000008',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000008",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1766361600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000008',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000008',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000008',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000009',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000009',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000009",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1766966400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000009',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000009',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000009',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000010',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000010',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000010",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1767571200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000010',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000010',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000010',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000011',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000011',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000011",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1768176000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000011',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000011',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000011',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000012',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000012',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000012",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1768780800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000012',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000012',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000012',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000013',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000013',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091518",
+        "Seqnr": "000013",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "PRAC",
+        "DGrpCat": "",
+        "DObjid": "00034288",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1769385600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "תרגיל מידע גרפי הנדסי",
+        "ZzEventShort": "תר-14",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000013',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": []
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010423",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "20",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0423",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0423",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010423',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            },
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00010425",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "בנין בורוביץ הנדסה אזרחית",
+              "BuildingId": "001",
+              "Capacity": "33",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "001-0425",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000027",
+              "RName": "מעבדה",
+              "RShort": "מעבדה",
+              "Seark": "",
+              "Short": "001-0425",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000010425',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000013',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091518',Seqnr='000013',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      }
+    ]
+  }
+}

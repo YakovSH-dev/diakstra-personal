@@ -1,0 +1,3048 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000001',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000001',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000001",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1761696000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000001',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000001',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000001',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000002',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000002',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000002",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1762041600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000002',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000002',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000002',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000003',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000003',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000003",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1762300800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000003',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000003',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000003',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000004',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000004',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000004",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1762646400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000004',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000004',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000004',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000005',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000005',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000005",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1762905600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000005',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000005',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000005',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000006',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000006',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000006",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1763251200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000006',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000006',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000006',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000007',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000007',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000007",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1763510400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000007',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000007',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000007',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000008',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000008',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000008",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1763856000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000008',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000008',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000008',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000009',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000009',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000009",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1764115200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000009',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000009',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000009',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000010',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000010',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000010",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1764460800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000010',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000010',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000010',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000011',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000011',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000011",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1764720000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000011',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000011',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000011',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000012',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000012',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000012",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1765065600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000012',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000012',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000012',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000013',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000013',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000013",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1765324800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000013',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000013',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000013',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000014',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000014',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000014",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1765670400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000014',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000014',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000014',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000015',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000015',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000015",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1766275200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000015',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000015',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000015',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000016',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000016',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000016",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1766534400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000016',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000016',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000016',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000017',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000017',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000017",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1766880000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000017',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000017',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000017',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000018',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000018',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000018",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1767139200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000018',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000018',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000018',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000019',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000019',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000019",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1767484800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000019',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000019',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000019',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000020',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000020',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000020",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1767744000000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000020',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000020',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000020',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000021',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000021',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000021",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1768089600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000021',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000021',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000021',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000022',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000022',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000022",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1768348800000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000022',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000022',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000022',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000023',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000023',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000023",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1768694400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000023',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000023',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000023',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000024',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000024',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000024",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1768953600000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000024',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000024',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000024',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000025',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000025',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000025",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1769299200000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000025',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230165",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "150",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0165",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000014",
+              "RName": "כתה לשיעור",
+              "RShort": "כתה לשיעור",
+              "Seark": "",
+              "Short": "023-0165",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230165',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000025',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000025',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      },
+      {
+        "__metadata": {
+          "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000026',Peryr='2025',Perid='200')",
+          "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000026',Peryr='2025',Perid='200')",
+          "type": "NVIAS_CDIR_DATA_SRV.EventSchedule"
+        },
+        "Otjid": "E 50091448",
+        "Seqnr": "000026",
+        "Peryr": "2025",
+        "Perid": "200",
+        "Beguz": "PT16H30M00S",
+        "DCat": "LEC",
+        "DGrpCat": "",
+        "DObjid": "00020043",
+        "Enduz": "PT18H30M00S",
+        "Evdat": "/Date(1769558400000)/",
+        "RoomHinweise": false,
+        "ZzDepartmentCode": "",
+        "ZzDepartmentName": "",
+        "ZzEventName": "הרצאה 00440252",
+        "ZzEventShort": "ה-10",
+        "ZzFilterSeOtjid": "",
+        "ZzHospitalCode": "",
+        "ZzHospitalName": "",
+        "ZzNonAffHospital": "",
+        "Events": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000026',Peryr='2025',Perid='200')/Events"
+          }
+        },
+        "Persons": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')",
+                "type": "NVIAS_CDIR_DATA_SRV.PObject"
+              },
+              "Otjid": "P 00012258",
+              "Peryr": "2025",
+              "Perid": "200",
+              "FirstName": "רוסטיסלב",
+              "LastName": "דובקין",
+              "OrgId": "00002050",
+              "OrgText": "הפקולטה להנדסת חשמל ומחשבים",
+              "OrgUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2024/02/04-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%97%",
+              "Seark": "",
+              "Title": "ד\"ר",
+              "ZzContactUrl": "",
+              "ZzExamFunction": "",
+              "ZzExamFunctionText": "",
+              "Events": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Events"
+                }
+              },
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/PObjectSet(Otjid='P%2000012258',Peryr='2025',Perid='200',ZzExamFunction='')/Responsible"
+                }
+              }
+            }
+          ]
+        },
+        "Rooms": {
+          "results": [
+            {
+              "__metadata": {
+                "id": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')",
+                "type": "NVIAS_CDIR_DATA_SRV.GObject"
+              },
+              "Otjid": "G 00230280",
+              "Peryr": "2025",
+              "Perid": "200",
+              "Adress1": "",
+              "Adress2": "",
+              "Building": "הנד' חשמל בלה מאייר",
+              "BuildingId": "023",
+              "Capacity": "350",
+              "CityPlz": "",
+              "Location": "טכניון חיפה",
+              "LocationId": "F 00000004",
+              "Name": "023-0280",
+              "OrgId": "00000004",
+              "OrgText": "",
+              "Picture": "",
+              "RId": "00000018",
+              "RName": "אודיטוריום",
+              "RShort": "אודיטוריום",
+              "Seark": "",
+              "Short": "023-0280",
+              "StreetNo": "",
+              "Responsible": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Responsible"
+                }
+              },
+              "Equipment": {
+                "__deferred": {
+                  "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/GObjectSet(Otjid='G%2000230280',Peryr='2025',Perid='200')/Equipment"
+                }
+              }
+            }
+          ]
+        },
+        "EventPackages": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000026',Peryr='2025',Perid='200')/EventPackages"
+          }
+        },
+        "Modules": {
+          "__deferred": {
+            "uri": "https://portalex.technion.ac.il:443/sap/opu/odata/sap/Z_CM_EV_CDIR_DATA_SRV/EventScheduleSet(Otjid='E%2050091448',Seqnr='000026',Peryr='2025',Perid='200')/Modules"
+          }
+        }
+      }
+    ]
+  }
+}
